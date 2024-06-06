@@ -12,5 +12,5 @@ def temperature():
         print(r.text)
 
 if __name__ == '__main__':
-    temperature(cities)
+    temperature()
 
